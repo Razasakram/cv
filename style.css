@@ -1,0 +1,124 @@
+
+h4,h1{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+text-align: center;
+
+}
+
+.raza{
+    background-color: rgb(212, 172, 13);
+    padding:15px ;
+    margin: 0px;
+}
+
+#aaa{
+
+    /* display: flex; */
+    
+
+    background-color:gold ;
+    height: 50px;
+    padding:15px ;
+    margin: 0px;
+    font-size: large;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    
+}
+
+.bbb{
+
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.ccc{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+.ddd{
+    text-align: justify;
+    background-color: rgb(212, 172, 13);
+    width: 200px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ padding-left: 10px;
+    
+}
+
+.eee{
+    
+    text-align: justify;
+    background-color: rgb(212, 172, 13);
+    width: 100px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;    
+    padding-left: 7px;
+     
+}
+
+ul{
+    font-size: large;
+}
+
+
+.fff{
+    display: flex;
+justify-content:space-evenly ;
+
+}
+
+.ggg{
+    display: flex;
+    justify-content:space-evenly;
+    
+}
+
+.one{
+    display: flex;
+    justify-content:space-between ;
+}
+
+.two{
+    text-align: justify;
+    background-color: rgb(212, 172, 13);
+    width: 160px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-left: 7px;
+}
+
+#lll{
+    color:rgb(212, 172, 13) ;
+    
+}
+.bike{
+display:inline-block;
+
+}
+
+.hhh{
+    display: inline-block;
+    padding-right:400px ;
+    width: 5px;
+
+}
+
+.vvv{
+    display: inline-block;
+    padding-right:100px ;
+
+}
+.mmm{
+    
+    text-align: justify;
+    background-color: rgb(212, 172, 13);
+    width: 90px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;    
+    padding-left: 7px;
+}
+
+.ten{
+    display:flex;
+    justify-content:space-around ;
+}
